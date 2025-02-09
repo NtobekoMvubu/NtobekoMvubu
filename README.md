@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ntobeko Mvubu, lovely to meet you here.
-- 👀 I’m a recent Graudate from UKZN with a B.Com Honours Degree in Information Systems and Technology.
+- 👀 I’m a Graudate from UKZN with a B.Com Honours Degree in Information Systems and Technology.
+- 💼 I'm currently a software Engineer trying to make a difference
 - 🌱 I’m currently improving my skills in Software Developing by learning Java and polishing my OOP knowledge with online courses.
 - 💞️ I really enjoy developing Mobile, Web and Desktop Applications and i continue to perfect my craft.
 - 📫 You can reach me via my email: ntobekoj7@gmai.com or message me on my LinkedIn : https://www.linkedin.com/in/ntobeko-mvubu-03a4411aa/
